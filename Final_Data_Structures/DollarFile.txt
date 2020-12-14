@@ -1,0 +1,6 @@
+This is the file five dollar amounts I will need to convert currencies.
+15.00
+13.00
+34.25
+16.00
+75.99

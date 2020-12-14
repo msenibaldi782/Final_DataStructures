@@ -1,0 +1,6 @@
+This is the conversion file Rate taken Oct 15, 1011 hrs mst.
+Euro,1.17
+EnglishPound,1.29
+BrazilReal,0.177
+PolishZloty,.257
+NipponYenn,0.0090
